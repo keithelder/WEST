@@ -1,4 +1,5 @@
 Environment
 ===========
 
-Various settings, config files to setup my environment.
+# Quick Setup
+Run InstallEverything.bat to setup everything all at once. 
