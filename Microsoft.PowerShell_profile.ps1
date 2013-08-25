@@ -4,5 +4,9 @@ $VIMPATH = "C:\Program Files (x86)\vim\bin\vim.bat"
 Set-Alias vi $VIMPATH
 Set-Alias vim $VIMPATH
 
-// prompts for git password once so I don't have to re-enter it
+
 ssh-add
+
+# Load posh-git example profile
+. 'C:\tools\poshgit\dahlbyk-posh-git-8aecd99\profile.example.ps1'
+
