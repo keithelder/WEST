@@ -2,8 +2,8 @@ Windows Environment Setup Tool
 ===========
 
 # What is WEST
-WEST is my attempt to automate setting up a Windows PC as much as I can. As a developer I have and setup many VMs 
-and wind up performing the same thing over and over. WEST is a a setup of scripts and in the future an app that will help 
+WEST is my attempt to automate setting up a Windows PC as much as I can. As a developer I have many different computers and 
+VMs whereby I wind up performing the same setup tasks over and over. WEST is a set of scripts and in the future an app that will help 
 setup and configure a new Windows computer via a saveable configuration file which will allow different configurations 
 to be saved and loaded and customized and stored in the Cloud. 
 
